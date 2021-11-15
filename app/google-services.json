@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1089828145867",
+    "project_id": "worldfoods-18e60",
+    "storage_bucket": "worldfoods-18e60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089828145867:android:429d98a4bd422f4282294e",
+        "android_client_info": {
+          "package_name": "com.ali.worldfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089828145867-uljkcg313sos6bq1qu92q3estdj078a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ali.worldfoods",
+            "certificate_hash": "1ab8bbdd95c31028a1471eb3533a3d30605f2bc2"
+          }
+        },
+        {
+          "client_id": "1089828145867-u78nidl36nbpbrfna6io2fa6qqp75ga4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZKcbu_BksVWlObTWJm0FFiB-NmgpvQpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089828145867-u78nidl36nbpbrfna6io2fa6qqp75ga4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">World Foods</string>
+    <string name="error_text">An error occured while loading data!</string>
+    <string name="developer_key">AIzaSyCcrxoT_aH19Ih7posC52nzaz5B9GRX2T8</string>
+</resources>
